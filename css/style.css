@@ -101,6 +101,10 @@ div.container-fluid{
   outline: none;
 }
 
+.nav-link {
+  color: white !important;
+  }
+
 .navbar-toggler,.navbar-toggler:focus,.navbar-toggler:active,.navbar-toggler-icon:focus {
     /* outline: none; */
     /* border: none; */
@@ -126,9 +130,8 @@ header a:hover {
   margin-left: 25%;
 }
 
-
 .header a{
-  color: black;
+  color: white;
   font-size: 12px;
   font-weight: 700;
 }
@@ -236,9 +239,10 @@ header a:hover {
   align-items: center;
   margin: 45px 45px 0px 45px;
   list-style-type: none;
+  color: white;
 }
 .footer a{
-  color: black;
+  color: white;
   text-decoration: none;  
 }
 footer a:hover {
@@ -249,9 +253,13 @@ footer a:hover {
   font-size: 20px;
   font-weight:400;
   text-decoration: underline;
+  color: white;
 }
 /* FIN EL CONTACT ME Y SOCIAL */
 
+.footer__section2 p{
+  color: white;
+}
 
 /* Tamaño boton ir hacia arriba */
 footer .botontop{
@@ -478,6 +486,7 @@ p{
     .about1, .about2, .about3{
       width: 50vw;
       font-size: 20px;
+      color: white;
     }
 
 
