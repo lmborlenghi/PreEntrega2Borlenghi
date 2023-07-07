@@ -305,6 +305,9 @@ footer .botontop{
   background-color: rgb(225, 225, 225); 
   padding-left: 30px;
 }
+ .contact_form h3{
+  padding-right: 30px;
+ }
  
 input{
   background-color: #fbfbfb; 
@@ -338,7 +341,8 @@ label{
   float: center;  
 }
 
-button{
+
+ button{
   height: 45px; 
   padding-left: 5px;
   padding-right: 5px;   
@@ -347,7 +351,7 @@ button{
   text-transform: uppercase;
   background-color: #fe9220;
   border-radius: 10px;
-  width: 245px;   
+  width: 225px;   
   cursor: pointer;
 }
 
@@ -375,6 +379,8 @@ p{
   font-size: 14px; 
   color: #0e0e0e; 
 }
+
+
 /* FIN CONTACT FORM - FIN CONTACT FORM - FIN CONTACT FORM - FIN CONTACT FORM - FIN CONTACT FORM -  */
 
 
@@ -553,9 +559,12 @@ p{
       text-transform: uppercase;
       background-color: #fe9220;
       border-radius: 10px;
-      width: 420px;   
+      width: 400px;   
       cursor: pointer;
     }
+    
+  
+
     /* FIN CONTACT FORM - FIN CONTACT FORM - FIN CONTACT FORM - FIN CONTACT FORM - FIN CONTACT FORM -  */
         
 
